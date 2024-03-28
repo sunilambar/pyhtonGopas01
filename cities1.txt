@@ -1,0 +1,11 @@
+CZ,Brno
+CZ,Praha
+SK,Kosice
+AT,Linz
+DE,Berlin
+CZ,Hradec Kralove
+SK,Bratislava
+SK,Zilina
+CZ,Ostrava
+CZ,Kolin
+AT,Graz
