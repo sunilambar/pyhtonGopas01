@@ -1,0 +1,16 @@
+CZ,JM,Brno,395000
+CZ,JM,Breclav,25000
+CZ,JM,Hodonin,20000
+CZ,PHA,Praha,1100000
+SK,VS,Kosice,190000
+CZ,JC,Ceske Budejovice,160000
+AT,ZR,Linz,80000
+SK,BRA,Bratislava,400000
+CZ,SM,Ostrava,280000
+CZ,SM,Opava,45000
+CZ,SM,Trinec,67000
+SK,SZ,Zilina,71000
+AT,DR,Graz,90000
+CZ,KH,Hradec Kralove,97000
+CZ,KH,Jaromer,31000
+CZ,KH,Nachod,22000

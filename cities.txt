@@ -1,0 +1,11 @@
+CZ,Brno,395000
+CZ,Praha,1100000
+SK,Kosice,190000
+CZ,Ceske Budejovice,160000
+AT,Linz,80000
+DE,Berlin,6500000
+SK,Bratislava,400000
+CZ,Ostrava,280000
+SK,Zilina,71000
+AT,Graz,90000
+CZ,Hradec Kralove,97000
